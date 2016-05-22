@@ -1,0 +1,16 @@
+h1{
+    color: #ff5050;
+}
+p{
+    color: aliceblue;
+    font-size: 18pt;
+}
+li,a{
+    color: aqua;
+}
+body{
+    background: #b30059;
+}
+.small{
+    font-size: 15pt;
+}
